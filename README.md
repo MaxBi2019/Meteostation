@@ -21,4 +21,18 @@ https://www.dropbox.com/s/4hk3zcg6gibgfyq/BME_280.mov?dl=0
 - connect clock
 ----------
 
+
+## What I managed to accomplish:
+- connected Nokia 5110 display to STM32F411EDiscovery
+- connected RTC DS3132
+- written small library for DS3132
+- written rudimentall interface for meteostation
+----------
+
+## For the final stage:
+- connect all the sensors
+- make interface more user-friendly and sophisticated
+- implement SD logging
+- make a decent frame
+----------
 Coming soon… 🙂 

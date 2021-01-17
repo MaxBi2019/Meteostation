@@ -37,7 +37,7 @@ https://www.dropbox.com/s/4hk3zcg6gibgfyq/BME_280.mov?dl=0
 ----------
 ## Finally ;) final stage:
 - connected all the sensors (except CO)
-- interface is made totally symple
+- interface is made totally simple
 - implemented SD logging
 - packed project in the plastic case
 - written .py script for analyzing .csv logs

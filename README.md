@@ -35,4 +35,14 @@ https://www.dropbox.com/s/4hk3zcg6gibgfyq/BME_280.mov?dl=0
 - implement SD logging
 - make a decent frame
 ----------
-Coming soon… 🙂 
+## Finally ;) final stage:
+- connected all the sensors (except CO)
+- interface is made totally symple
+- implemented SD logging
+- packed project in the plastic case
+- written .py script for analyzing .csv logs
+----------
+
+[presentation](https://docs.google.com/presentation/d/1M4FgvJYktm_YzFoLFhRsxucWLrlFCiLVrmgeh0fLSTk/edit?usp=sharing)
+
+The end 🙂 
